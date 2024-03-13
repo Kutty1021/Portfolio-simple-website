@@ -66,6 +66,7 @@ body{
     display: inline-block;
     height: 200px;
     border-radius: 10px;
+    vertical-align: top;
 
 }
 
@@ -75,6 +76,8 @@ body{
     padding: 20px;
     display: inline-block;
     height: 200px;
+    border-radius: 10px;
+    vertical-align: top;
     
 }
 
